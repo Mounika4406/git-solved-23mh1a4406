@@ -1,1 +1,11 @@
-Used fetch 1 time, pull 1 time
+- 02dc5a8: docs: Add Git Journey documentation (Mounika4406, 24 seconds ago)
+- 63058fb: docs: Update README (Mounika4406, 21 minutes ago)
+- a628a0d: feat: Add new feature (Mounika4406, 29 minutes ago)
+- 6d2b011: docs: Add FAQ section (Mounika4406, 30 minutes ago)
+- f6a11f4: docs:Documented fetch and pull usage (Mounika4406, 42 minutes ago)
+- 06c82e8: Addwd checkpoint screenshot (Mounika4406, 65 minutes ago)
+- da09389: Resolved merge conflict in README.md (Mounika4406, 67 minutes ago)
+- 02011a5: updating dev (Hanu Gupta, 5 days ago)
+- 0312c6f: updating main (Hanu Gupta, 5 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 5 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 5 days ago)
