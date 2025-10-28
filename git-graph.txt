@@ -1,0 +1,23 @@
+* 8462c38 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 02dc5a8 docs: Add Git Journey documentation
+| * 13c7f95 (feature/another-feature) test: reset demo
+|/  
+| * 4b1727b (origin/feature/another-feature) docs: updated journey with rebase command
+| * 7790725 feat: Add test feature
+|/  
+* 63058fb (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* a628a0d feat: Add new feature
+* 6d2b011 docs: Add FAQ section
+| * 4179294 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* f6a11f4 docs:Documented fetch and pull usage
+* 06c82e8 Addwd checkpoint screenshot
+*   da09389 Resolved merge conflict in README.md
+|\  
+| * 02011a5 (instructor/dev, dev) updating dev
+* | 0312c6f (instructor/main, instructor/HEAD, conflict-simulator) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
